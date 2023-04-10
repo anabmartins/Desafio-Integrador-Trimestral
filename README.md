@@ -66,10 +66,10 @@ public class Produto {
 No App prototipado o usuário logado como administrador poderá visualizar os produtos adicionados, criar novos produtos, editar e excluir os produtos já existentes.
 
 ### TELAS:
-
-<img src="./telas/inicio.png">
-<img src="./telas/produtos.png">
-
+<div>
+<img width="50%" src="./telas/inicio.png">
+<img width="50%" src="./telas/produtos.png">
+</div>
 - Implementar a classe em JS do domínio criado. 
 
 ```
