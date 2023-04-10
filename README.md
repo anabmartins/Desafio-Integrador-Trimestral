@@ -46,12 +46,12 @@ SELECT * FROM produtos;
 ```
 
 
-3# Desenvolvimento de Sistemas:
+### 3# Desenvolvimento de Sistemas:
 
 - Entregar projeto em Sprint Boot contendo front-end e back-end. 
 - Entregar no mesmo projeto Sprint Boot, a classe em Java para descrever o problema. 
 
-4# Proponha a Tela do App para Listar todos os item registrados no problema anterior.
+### 4# Proponha a Tela do App para Listar todos os item registrados no problema anterior.
 
 - Descreva o App a ser prototipado e crie a ideia visual do protótipo.
 
