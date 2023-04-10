@@ -51,6 +51,14 @@ SELECT * FROM produtos;
 - Entregar projeto em Sprint Boot contendo front-end e back-end. 
 - Entregar no mesmo projeto Sprint Boot, a classe em Java para descrever o problema. 
 
+```
+public class Produto {
+  private Long id;
+  private String nome;
+  private double preco;
+}
+```
+
 ### 4# Proponha a Tela do App para Listar todos os item registrados no problema anterior.
 
 - Descreva o App a ser prototipado e crie a ideia visual do protótipo.
