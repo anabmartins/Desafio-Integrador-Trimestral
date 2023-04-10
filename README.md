@@ -23,7 +23,9 @@ Além disso, o banco de dados também seria usado para rastrear o estoque de pro
 
 - Implementar todos os diagramas estudados em sala.
 
+Diagrama Modelo Conceitual 
 
+<img src="./telas/brmodelo.png">
 
 - Criar o modelo físico do banco de dados envolvendo apenas uma tabela. 
 
