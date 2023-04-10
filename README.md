@@ -64,11 +64,12 @@ public class Produto {
 - Descreva o App a ser prototipado e crie a ideia visual do protótipo.
 
 No App prototipado o usuário logado como administrador poderá visualizar os produtos adicionados, criar novos produtos, editar e excluir os produtos já existentes.
-
-### TELAS:
-<div>
-<img width="50%" src="./telas/inicio.png">
-<img width="50%" src="./telas/produtos.png">
+<div align="center">
+**TELAS**
+<div align="center">
+<img width="35%" margin-right="20px" src="./telas/inicio.png">
+<img width="35%" src="./telas/produtos.png">
+</div>
 </div>
 - Implementar a classe em JS do domínio criado. 
 
