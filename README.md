@@ -70,5 +70,14 @@ No App prototipado o usuário logado como administrador poderá visualizar os pr
 
 - Implementar a classe em JS do domínio criado. 
 
-
+```
+class Produtos{
+    constructor(nome, descricao, preco, quantidade){
+        this.nome = nome,
+        this.descricao = descricao,
+        this.preco = preco,
+        this.quantidade = quantidade
+    }
+}
+```
 
