@@ -67,6 +67,8 @@ No App prototipado o usuário logado como administrador poderá visualizar os pr
 
 ### TELAS:
 
+<img src="./telas/inicio.png">
+<img src="./telas/produtos.png">
 
 - Implementar a classe em JS do domínio criado. 
 
